@@ -1,0 +1,170 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Google Fonts - Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background: linear-gradient(135deg, #2c3e50 0%, #4ca1af 100%);
+    position: relative;
+    color: #fff;
+}
+
+/* Arka plan animasyonu için hareketli gradient */
+body::before {
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(45deg, #4ca1af, #c4e0e5, #2c3e50, #4ca1af);
+    background-size: 400% 400%;
+    animation: gradientShift 20s ease infinite;
+    filter: blur(70px);
+    opacity: 0.7;
+    z-index: 0;
+}
+
+@keyframes gradientShift {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.container {
+    position: relative;
+    background: rgba(255, 255, 255, 0.15);
+    padding: 40px 50px;
+    border-radius: 20px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35);
+    width: 600px;
+    max-width: 90vw;
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    z-index: 1;
+    text-align: center;
+}
+
+/* Başlık */
+h1 {
+    font-weight: 700;
+    font-size: 3rem;
+    margin-bottom: 15px;
+    text-shadow: 0 0 10px rgba(76, 161, 175, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 span {
+    margin-right: 10px;
+}
+
+/* Alt yazı */
+.intro {
+    font-size: 1.15rem;
+    margin-bottom: 30px;
+    color: #d1e8e2;
+}
+
+/* Textarea */
+textarea {
+    width: 100%;
+    height: 140px;
+    padding: 20px;
+    border-radius: 12px;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    font-size: 1rem;
+    resize: none;
+    background: rgba(255, 255, 255, 0.15);
+    color: #000000;
+    box-shadow: inset 0 0 10px rgba(255,255,255,0.1);
+    transition: background-color 0.4s ease, border-color 0.4s ease, box-shadow 0.4s ease;
+    font-family: 'Roboto', sans-serif;
+}
+
+textarea::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+textarea:focus {
+    border-color: #76c7d0;
+    background-color: rgba(255, 255, 255, 0.25);
+    box-shadow: 0 0 8px 2px rgba(118, 199, 208, 0.6);
+    outline: none;
+}
+
+/* Buton */
+.submit-btn {
+    margin-top: 15px;
+    padding: 15px 40px;
+    font-size: 1.2rem;
+    background: #4ca1af;
+    border: none;
+    border-radius: 15px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 700;
+    box-shadow: 0 6px 20px rgba(76, 161, 175, 0.6);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    user-select: none;
+}
+
+.submit-btn:hover {
+    background: #76c7d0;
+    transform: scale(1.05);
+    box-shadow: 0 8px 30px rgba(118, 199, 208, 0.8);
+}
+
+/* Yanıt kutusu */
+.response {
+    margin-top: 30px;
+    padding: 25px;
+    background: rgba(255, 255, 255, 0.25);
+    border-radius: 15px;
+    font-size: 1.1rem;
+    color: #e0f7fa;
+    text-align: left;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    display: none;
+}
+
+/* Responsive */
+@media (max-width: 700px) {
+    .container {
+        padding: 30px 20px;
+        width: 90vw;
+    }
+
+    h1 {
+        font-size: 2.2rem;
+    }
+
+    textarea {
+        height: 120px;
+        font-size: 0.95rem;
+    }
+
+    .submit-btn {
+        font-size: 1rem;
+        padding: 12px 30px;
+    }
+}
