@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hukuki Danışman</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <h1><span>⚖️</span>Yapay Zeka Hukuki Danışman</h1>
+        <p class="intro">Boşanma davaları hakkında sorularınızı buraya yazın, size yardımcı olalım.</p>
+
+        <form id="questionForm">
+            <textarea id="question" placeholder="Sorunuzu yazın..." required></textarea>
+            <button type="submit" class="submit-btn">Soruyu Gönder</button>
+        </form>
+
+        <div id="responseContainer" class="response">
+            <p><strong>Yanıt:</strong> Burada cevabınız görünecek.</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
