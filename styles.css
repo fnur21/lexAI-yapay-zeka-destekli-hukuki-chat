@@ -15,26 +15,12 @@ body {
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    background: linear-gradient(135deg, #2c3e50 0%, #4ca1af 100%);
+    background: linear-gradient(135deg, #152433 0%, #415659 100%);
     position: relative;
     color: #fff;
 }
 
-/* Arka plan animasyonu için hareketli gradient */
-body::before {
-    content: "";
-    position: absolute;
-    top: -50%;
-    left: -50%;
-    width: 200%;
-    height: 200%;
-    background: linear-gradient(45deg, #4ca1af, #c4e0e5, #2c3e50, #4ca1af);
-    background-size: 400% 400%;
-    animation: gradientShift 20s ease infinite;
-    filter: blur(70px);
-    opacity: 0.7;
-    z-index: 0;
-}
+
 
 @keyframes gradientShift {
     0% {
