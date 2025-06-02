@@ -1,0 +1,1597 @@
+[
+  {
+    "question": "Boşanma davası nasıl açılır?",
+    "answer": "Boşanma davası için aile mahkemesine dilekçe verilmelidir."
+  },
+  {
+    "question": "Mal paylaşımı nasıl yapılır?",
+    "answer": "Evlilik süresince edinilen mallar eşit olarak paylaşılır."
+  },
+  {
+    "question": "Nafaka nedir?",
+    "answer": "Nafaka, boşanma sonrası ekonomik olarak zor durumda olan eşe verilen destektir."
+  },
+  {
+    "question": "Velayet kimde kalır?",
+    "answer": "Çocuğun üstün yararı gözetilerek mahkeme velayeti anne ya da babaya verebilir."
+  },
+  {
+    "question": "Miras nasıl paylaşılır?",
+    "answer": "Miras, kanunda belirtilen mirasçılar arasında yasal paylara göre paylaşılır."
+  },
+  {
+    "question": "Kira sözleşmesi nasıl yapılır?",
+    "answer": "Kira sözleşmesi yazılı ya da sözlü yapılabilir ancak yazılı olması tavsiye edilir."
+  },
+  {
+    "question": "İşten çıkarılma durumunda tazminat alabilir miyim?",
+    "answer": "İşveren haklı sebep olmadan işten çıkarırsa kıdem tazminatı alabilirsiniz."
+  },
+  {
+    "question": "Tüketici hakları nelerdir?",
+    "answer": "Tüketici hakları, ayıplı mal, cayma hakkı ve garanti gibi hakları içerir."
+  },
+  {
+    "question": "Kredi kartı borcunu ödeyemezsem ne olur?",
+    "answer": "Borcun ödenmemesi durumunda banka yasal işlem başlatabilir ve kredi notunuz düşer."
+  },
+  {
+    "question": "İcra takibi nedir?",
+    "answer": "İcra takibi, alacakların tahsili için başlatılan yasal prosedürdür."
+  },
+  {
+    "question": "Tapu iptali nasıl yapılır?",
+    "answer": "Tapu iptali için mahkemeye dava açılmalıdır."
+  },
+  {
+    "question": "Evlilik sözleşmesi nedir?",
+    "answer": "Evlilik sözleşmesi, evlilik öncesi mal rejimi ve hakların düzenlenmesidir."
+  },
+  {
+    "question": "Kredi çekerken nelere dikkat etmeliyim?",
+    "answer": "Faiz oranı, vade süresi ve ödeme planı önemlidir."
+  },
+  {
+    "question": "Çekimser oy nedir?",
+    "answer": "Çekimser oy, karar aşamasında oy kullanmama anlamına gelir."
+  },
+  {
+    "question": "Hukuki danışmanlık hizmeti nedir?",
+    "answer": "Hukuki danışmanlık, hukuki konularda profesyonel tavsiye verilmesidir."
+  },
+  {
+    "question": "Trafik cezasına itiraz nasıl yapılır?",
+    "answer": "Trafik cezasına itiraz için ilgili trafik mahkemesine başvurulmalıdır."
+  },
+  {
+    "question": "İş kazası nedir?",
+    "answer": "İş kazası, işyerinde veya iş nedeniyle meydana gelen kaza anlamına gelir."
+  },
+  {
+    "question": "Vergi borcumu ödeyemezsem ne olur?",
+    "answer": "Vergi borcunuz gecikirse faiz ve cezalar uygulanabilir."
+  },
+  {
+    "question": "Avukat tutmanın avantajları nelerdir?",
+    "answer": "Profesyonel hukuki destek alır, haklarınız korunur ve süreç hızlanır."
+  },
+  {
+    "question": "Adli tatil nedir?",
+    "answer": "Adli tatil, mahkemelerin yaz aylarında belirli sürelerle kapalı olduğu dönemdir."
+  },
+  {
+    "question": "Boşanma sonrası çocukların durumu nasıl olur?",
+    "answer": "Çocukların velayeti ve bakımı mahkeme kararıyla belirlenir."
+  },
+  {
+    "question": "Haciz işlemi nasıl yapılır?",
+    "answer": "Alacaklı mahkeme kararıyla borçlunun mal varlığına haciz koyabilir."
+  },
+  {
+    "question": "Kira kontratında nelere dikkat edilmeli?",
+    "answer": "Kira süresi, depozito, tahliye şartları net olarak belirtilmelidir."
+  },
+  {
+    "question": "İş sözleşmesi nedir?",
+    "answer": "İşveren ile çalışan arasında yapılan ve çalışma koşullarını belirten sözleşmedir."
+  },
+  {
+    "question": "İzinsiz işten çıkarma nasıl anlaşılır?",
+    "answer": "İşverenin haklı sebep göstermeden işçiyi çıkarmasıdır."
+  },
+  {
+    "question": "Boşanma süreci ne kadar sürer?",
+    "answer": "Boşanma süreci dava türüne göre değişir, ortalama 6 ay ile 1 yıl arasında sürer."
+  },
+  {
+    "question": "Mal rejimi nedir?",
+    "answer": "Evlilikte eşlerin mal varlıklarının nasıl yönetileceğini belirleyen sistemdir."
+  },
+  {
+    "question": "Trafik kazasında kim sorumludur?",
+    "answer": "Kazaya karışan tarafların kusur oranına göre sorumluluk belirlenir."
+  },
+  {
+    "question": "Veraset ilamı nedir?",
+    "answer": "Mirasçıların kim olduğunu gösteren resmi belgedir."
+  },
+  {
+    "question": "İcra takibinde süreler nasıl işler?",
+    "answer": "Ödeme emrinin tebliğinden itibaren 7 gün içinde itiraz edilmezse takip devam eder."
+  },
+  {
+    "question": "İşçinin hakları nelerdir?",
+    "answer": "Ücret, izin, fazla mesai ve iş güvenliği gibi hakları vardır."
+  },
+  {
+    "question": "Fikri mülkiyet nedir?",
+    "answer": "Bir kişinin düşünce ürünleri üzerindeki haklarıdır."
+  },
+  {
+    "question": "Ceza hukuku nedir?",
+    "answer": "Suçların ve cezaların düzenlendiği hukuk dalıdır."
+  },
+  {
+    "question": "Hukuki süreçte avukat zorunlu mu?",
+    "answer": "Bazı dava türlerinde avukat zorunludur, bazılarında değil."
+  },
+  {
+    "question": "Tazminat nedir?",
+    "answer": "Zarar görenin zararının karşılanmasıdır."
+  },
+  {
+    "question": "İşverenin sorumlulukları nelerdir?",
+    "answer": "İş güvenliği sağlamak ve çalışan haklarına saygı göstermek zorundadır."
+  },
+  {
+    "question": "Kira bedeli nasıl belirlenir?",
+    "answer": "Tarafların anlaşmasıyla belirlenir, genellikle piyasa koşullarına göre değişir."
+  },
+  {
+    "question": "Noter nedir?",
+    "answer": "Resmi işlemleri belgeleyen ve onaylayan kamu görevlisidir."
+  },
+  {
+    "question": "İhtiyati tedbir nedir?",
+    "answer": "Davanın sonucunu beklerken geçici koruma sağlayan karardır."
+  },
+  {
+    "question": "İş kazası tazminatı nasıl alınır?",
+    "answer": "İşveren veya SGK'dan talep edilebilir, tıbbi rapor gereklidir."
+  },
+  {
+    "question": "Çek senet farkı nedir?",
+    "answer": "Çek ödeme aracı, senet ise borç belgesidir."
+  },
+  {
+    "question": "Boşanma davasında avukat gerekli midir?",
+    "answer": "Çekişmeli boşanmalarda avukat zorunludur, anlaşmalı boşanmalarda değil."
+  },
+  {
+    "question": "Mirasçıların hakları nelerdir?",
+    "answer": "Kanunda belirlenen paylar dahilinde miras talep edebilirler."
+  },
+  {
+    "question": "Ev alımında tapu işlemleri nasıl yapılır?",
+    "answer": "Satıcı ve alıcı tapu müdürlüğünde işlemleri birlikte yapar."
+  },
+  {
+    "question": "İşyeri kiralama sözleşmesi nasıl yapılır?",
+    "answer": "Yazılı yapılması tavsiye edilir, kira bedeli ve süre belirtilmelidir."
+  },
+  {
+    "question": "Tüketici şikayeti nasıl yapılır?",
+    "answer": "Tüketici Hakem Heyetine veya mahkemeye başvurulur."
+  },
+  {
+    "question": "Boşanma davasında delil olarak ne kullanılır?",
+    "answer": "Tanık, yazılı belgeler ve elektronik kayıtlar delil olabilir."
+  },
+  {
+    "question": "Emanet nedir?",
+    "answer": "Bir eşyanın geçici olarak başkasına bırakılmasıdır."
+  },
+  {
+    "question": "Sözleşme nedir?",
+    "answer": "Tarafların birbirine karşı hak ve yükümlülüklerini belirleyen anlaşmadır."
+  },
+  {
+    "question": "İzinsiz işten çıkarma durumunda ne yapılır?",
+    "answer": "İş mahkemesine başvurarak tazminat talep edilebilir."
+  },
+  {
+    "question": "Kamu hukuku nedir?",
+    "answer": "Devlet ile bireyler arasındaki ilişkileri düzenler."
+  },
+  {
+    "question": "Özel hukuk nedir?",
+    "answer": "Bireyler arasındaki ilişkileri düzenler."
+  },
+  {
+    "question": "Vekalet nedir?",
+    "answer": "Bir kişinin, başka bir kişiye hukuki işlem yapma yetkisi vermesidir."
+  },
+  {
+    "question": "İcra iflas hukuku nedir?",
+    "answer": "Borçların tahsil ve iflas işlemlerini düzenleyen hukuk dalıdır."
+  },
+  {
+    "question": "Cayma hakkı nedir?",
+    "answer": "Tüketicinin, belirli koşullarda sözleşmeden vazgeçme hakkıdır."
+  },
+  {
+    "question": "Boşanma davasında ortak mal nasıl paylaşılır?",
+    "answer": "Ortak mallar eşit şekilde paylaşılır, aksi kararlaştırılmışsa ona göre dağıtılır."
+  },
+  {
+    "question": "Evlilik birliği sırasında edinilen borçlar nasıl paylaşılır?",
+    "answer": "Genellikle eşler ortak sorumludur ancak durumlar farklılık gösterebilir."
+  },
+  {
+    "question": "İşveren işçi arasında çalışma süresi nasıl düzenlenir?",
+    "answer": "Haftalık çalışma süresi 45 saattir, fazla mesai ücretlendirilir."
+  },
+  {
+    "question": "Trafik cezası nasıl ödenir?",
+    "answer": "Vergi daireleri ve online platformlardan ödenebilir."
+  },
+  {
+    "question": "Miras bırakanın vasiyeti geçerli midir?",
+    "answer": "Yasal miras paylarını etkilememek koşuluyla geçerlidir."
+  },
+  {
+    "question": "İşçinin yıllık izin hakkı nedir?",
+    "answer": "En az 14 gün ücretli izin hakkı vardır."
+  },
+  {
+    "question": "Kira kontratı feshedilebilir mi?",
+    "answer": "Tarafların anlaşması veya yasal sebeplerle feshedilebilir."
+  },
+  {
+    "question": "Boşanma davasında anlaşmalı boşanma nasıl olur?",
+    "answer": "Eşler birlikte mahkemeye başvurarak boşanma ve mal paylaşımı konusunda anlaşırlar."
+  },
+  {
+    "question": "Tüketici mahkemesi nedir?",
+    "answer": "Tüketici uyuşmazlıklarının çözüldüğü özel mahkemedir."
+  },
+  {
+    "question": "İşten çıkarılma süresi nedir?",
+    "answer": "Kıdem ve çalışma süresine bağlı olarak değişir, genellikle 2 hafta-8 hafta arasıdır."
+  },
+  {
+    "question": "Velayet değişikliği nasıl yapılır?",
+    "answer": "Mahkeme kararı ile çocuğun üstün yararı gözetilerek yapılır."
+  },
+  {
+    "question": "İş sözleşmesi feshedilince tazminat alınır mı?",
+    "answer": "Haklı fesih durumunda tazminat alınabilir."
+  },
+  {
+    "question": "İpotek nedir?",
+    "answer": "Bir taşınmaz üzerinde alacak için güvence olarak kurulan hak."
+  },
+  {
+    "question": "Eşler mal rejimini nasıl değiştirebilir?",
+    "answer": "Evlilik sözleşmesi yaparak mal rejimini değiştirebilirler."
+  },
+  {
+    "question": "Kredi sözleşmesi nedir?",
+    "answer": "Borç veren ile alan arasında yapılan ödeme koşullarını belirten sözleşme."
+  },
+  {
+    "question": "İş kazasında tazminat alma süresi nedir?",
+    "answer": "Kazadan itibaren 10 yıl içinde dava açılabilir."
+  },
+  {
+    "question": "Boşanma sonrası soyadı değişir mi?",
+    "answer": "Eşler talep ederse eski soyadını alabilir."
+  },
+  {
+    "question": "Tazminat davalarında delil önemi nedir?",
+    "answer": "Zararın ve kusurun ispatı gerekir."
+  },
+  {
+    "question": "Boşanma davası türleri nelerdir?",
+    "answer": "Çekişmeli ve anlaşmalı boşanma olarak ikiye ayrılır."
+  },
+  {
+    "question": "Kiracı tahliye işlemi nasıl yapılır?",
+    "answer": "Kiracı kira bedelini ödemezse veya sözleşmeyi ihlal ederse tahliye edilebilir."
+  },
+  {
+    "question": "İcra dosyası açmak için ne yapmak gerekir?",
+    "answer": "Alacaklı, icra müdürlüğüne talep dilekçesi verir."
+  },
+  {
+    "question": "Hukuki süreçte itiraz nasıl yapılır?",
+    "answer": "Belirlenen süre içinde mahkemeye dilekçe ile yapılır."
+  },
+  {
+    "question": "Boşanma davasında uzlaşma mümkün müdür?",
+    "answer": "Evet, taraflar anlaşarak boşanabilir."
+  },
+  {
+    "question": "Avukat ücreti nasıl belirlenir?",
+    "answer": "Genellikle sözleşme ile belirlenir veya baro tarifesine göre hesaplanır."
+  },
+  {
+    "question": "Çocuk nafakası nasıl hesaplanır?",
+    "answer": "Ebeveynlerin gelir durumuna göre mahkeme belirler."
+  },
+  {
+    "question": "Kira sözleşmesi yazılı değilse geçerli midir?",
+    "answer": "Sözlü kira sözleşmesi de geçerlidir ancak ispat zor olabilir."
+  },
+  {
+    "question": "Tüketici ayıplı mal durumunda ne yapmalı?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Aldığım ürün bozuk çıktı, ne yapabilirim?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Kusurlu malda iade hakkım var mı?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davası nerede açılır?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Boşanma için nereye başvurulmalı?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Evden çıkarken depozitomu nasıl alırım?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Depozito almak için ne yapmak gerekir?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "İşten atılan işçiye hangi haklar verilir?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "İşten çıkarılınca hangi ödemeler yapılır?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Boşanırken tazminat nasıl istenir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma davasında tazminat isteme şartları nedir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Kart borcumu ödemezsem başıma ne gelir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi borcunu ödemeyenin başına ne gelir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+   {
+    "question": "Kusurlu malda iade hakkım var mı?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Bozuk ürün aldım, hangi haklara sahibim?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Aldığım ürün arızalıysa ne yapmalıyım?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Ayıplı mal için nereye başvurulur?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Boşanma davası nerede açılır?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Boşanmak için hangi mahkemeye gitmeliyim?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Boşanma süreci hangi mahkemede görülür?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Boşanma davası yetkili mahkeme hangisi?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Evden çıkarken depozitomu nasıl alırım?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Depozito almak için ne yapmak gerekir?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Ev sahibim depozitoyu vermiyor, ne yapmalıyım?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Kira depozitosu ne zaman iade edilir?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "İşten atılan işçiye hangi haklar verilir?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "İşten çıkarılınca hangi ödemeler yapılır?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "İşten kovulan biri tazminat alabilir mi?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "İşten çıkarılan biri nereye başvurmalı?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanırken tazminat nasıl istenir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma davasında tazminat isteme şartları nedir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Manevi tazminat boşanma davasında nasıl alınır?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma sonrası tazminat alınabilir mi?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kart borcumu ödemezsem başıma ne gelir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi borcunu ödemeyenin başına ne gelir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi kartı borcumu ödemedim, ne olur?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi borcu ödenmezse hangi işlemler başlatılır?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Ev sahibim depozitoyu vermiyor, ne yapmalıyım? ?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır? ?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Depozito almak için ne yapmak gerekir? ?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Evden çıkarken depozitomu nasıl alırım? ?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Kredi borcu ödenmezse hangi işlemler başlatılır? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "İşten çıkarılan biri nereye başvurmalı? ?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Bozuk ürün aldım, hangi haklara sahibim? ?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Depozito almak için ne yapmak gerekir? ?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Depozito almak için ne yapmak gerekir? ? ?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "İşten çıkarılan biri nereye başvurmalı? ?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Kredi borcu ödenmezse hangi işlemler başlatılır? ? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur? ? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi borcunu ödemeyenin başına ne gelir? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "İşten kovulan biri tazminat alabilir mi? ?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "İşten atılan işçiye hangi haklar verilir? ?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "İşten atılan işçiye hangi haklar verilir? ?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Ayıplı mal için nereye başvurulur? ?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Kredi kartı borcumu ödemedim, ne olur? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Ayıplı mal için nereye başvurulur? ? ?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir? ?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Evden çıkarken depozitomu nasıl alırım? ? ?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur? ? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Depozito almak için ne yapmak gerekir? ? ? ?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Bozuk ürün aldım, hangi haklara sahibim? ?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Kredi kartı borcumu ödemedim, ne olur? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir? ? ?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Bozuk ürün aldım, hangi haklara sahibim? ? ?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanırken tazminat nasıl istenir? ?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir? ?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Depozito almak için ne yapmak gerekir? ? ?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Aldığım ürün arızalıysa ne yapmalıyım? ?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "İşten çıkarılınca hangi ödemeler yapılır? ?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir? ? ?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma davasında tazminat isteme şartları nedir? ?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Kredi kartı borcumu ödemedim, ne olur? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kira depozitosu ne zaman iade edilir? ?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Kredi kartı borcumu ödemedim, ne olur? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Depozito almak için ne yapmak gerekir? ? ? ? ?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir? ? ? ?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur? ? ? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Aldığım ürün arızalıysa ne yapmalıyım? ? ?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır? ?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır? ? ?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Bozuk ürün aldım, hangi haklara sahibim? ? ?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "İşten kovulan biri tazminat alabilir mi? ?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Kart borcumu ödemezsem başıma ne gelir? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir? ? ? ?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur? ? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Depozito almak için ne yapmak gerekir? ? ? ? ?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur? ? ? ? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur? ? ? ? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Bozuk ürün aldım, hangi haklara sahibim? ? ?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur? ? ? ? ? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi borcu ödenmezse hangi işlemler başlatılır? ? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir? ? ? ?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Depozito almak için ne yapmak gerekir? ? ? ? ? ?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Boşanma davasında tazminat isteme şartları nedir? ?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Kredi borcunu ödemeyenin başına ne gelir? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Aldığım ürün arızalıysa ne yapmalıyım? ?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Bozuk ürün aldım, hangi haklara sahibim? ?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Depozito almak için ne yapmak gerekir? ? ? ? ? ?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Bozuk ürün aldım, hangi haklara sahibim? ?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Aldığım ürün arızalıysa ne yapmalıyım? ?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur? ? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur? ? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi borcu ödenmezse hangi işlemler başlatılır? ? ? ?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır durumu nasıl ilerler?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir süreci nasıldır?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir hakkında ne yapmalıyım?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur konusu nasıl işlenir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur konusu nasıl işlenir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir konusu nasıl işlenir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur nasıl olur?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir nasıl olur?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir konusu nasıl işlenir?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir süreci nasıldır?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir konusu nasıl işlenir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir süreci nasıldır?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur çözümü nedir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir çözümü nedir?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir çözümü nedir?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir süreci nasıldır?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: Satın alınan ayıplı mal için ne yapılabilir",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir çözümü nedir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur nasıl olur?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir süreci nasıldır?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir için hangi yollar izlenmeli?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir çözümü nedir?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir için hangi yollar izlenmeli?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir kim sorumludur?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir hakkında ne yapmalıyım?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: Kredi kartı borcu ödenmezse ne olur",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir süreci nasıldır?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir durumu nasıl ilerler?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir çözümü nedir?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir konusu nasıl işlenir?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir durumu nasıl ilerler?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır hakkında ne yapmalıyım?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir çözümü nedir?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir için hangi yollar izlenmeli?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir çözümü nedir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir nasıl olur?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır hakkında ne yapmalıyım?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: İşten çıkarılan işçi hangi haklara sahiptir",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir süreci nasıldır?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir için hangi yollar izlenmeli?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: Boşanma davasında maddi ve manevi tazminat nasıl talep edilir",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir çözümü nedir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir nasıl olur?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir kim sorumludur?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir durumu nasıl ilerler?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: Kredi kartı borcu ödenmezse ne olur",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir durumu nasıl ilerler?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır konusu nasıl işlenir?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur süreci nasıldır?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir için hangi yollar izlenmeli?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir nasıl olur?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur çözümü nedir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır konusu nasıl işlenir?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır nasıl olur?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir durumu nasıl ilerler?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur kim sorumludur?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir için hangi yollar izlenmeli?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir nasıl olur?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır nasıl olur?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir nasıl olur?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur için hangi yollar izlenmeli?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur kim sorumludur?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir süreci nasıldır?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur süreci nasıldır?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir durumu nasıl ilerler?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir çözümü nedir?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir için hangi yollar izlenmeli?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir durumu nasıl ilerler?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur kim sorumludur?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir konusu nasıl işlenir?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir için hangi yollar izlenmeli?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir süreci nasıldır?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır durumu nasıl ilerler?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: Kredi kartı borcu ödenmezse ne olur",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur konusu nasıl işlenir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur süreci nasıldır?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir nasıl olur?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır hakkında ne yapmalıyım?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir kim sorumludur?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır durumu nasıl ilerler?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır süreci nasıldır?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir hakkında ne yapmalıyım?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: Boşanma davasında hangi mahkeme yetkilidir",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir süreci nasıldır?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır süreci nasıldır?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır konusu nasıl işlenir?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir durumu nasıl ilerler?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir süreci nasıldır?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir hakkında ne yapmalıyım?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur durumu nasıl ilerler?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir konusu nasıl işlenir?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur hakkında ne yapmalıyım?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur kim sorumludur?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur çözümü nedir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: Kredi kartı borcu ödenmezse ne olur",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: Boşanma davasında maddi ve manevi tazminat nasıl talep edilir",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir kim sorumludur?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir durumu nasıl ilerler?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir süreci nasıldır?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır için hangi yollar izlenmeli?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır durumu nasıl ilerler?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: İşten çıkarılan işçi hangi haklara sahiptir",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: İşten çıkarılan işçi hangi haklara sahiptir",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: Kira depozitosu nasıl geri alınır",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir hakkında ne yapmalıyım?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir hakkında ne yapmalıyım?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir hakkında ne yapmalıyım?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur konusu nasıl işlenir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur nasıl olur?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir çözümü nedir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur durumu nasıl ilerler?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir hakkında ne yapmalıyım?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir nasıl olur?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: Boşanma davasında maddi ve manevi tazminat nasıl talep edilir",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur konusu nasıl işlenir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır konusu nasıl işlenir?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir süreci nasıldır?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir hakkında ne yapmalıyım?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir çözümü nedir?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir çözümü nedir?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur konusu nasıl işlenir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir için hangi yollar izlenmeli?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir konusu nasıl işlenir?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir kim sorumludur?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir durumu nasıl ilerler?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir süreci nasıldır?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: Kredi kartı borcu ödenmezse ne olur",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir süreci nasıldır?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir süreci nasıldır?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir çözümü nedir?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir süreci nasıldır?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur çözümü nedir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur çözümü nedir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir konusu nasıl işlenir?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir konusu nasıl işlenir?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir nasıl olur?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir süreci nasıldır?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir konusu nasıl işlenir?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir çözümü nedir?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir hakkında ne yapmalıyım?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır çözümü nedir?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: İşten çıkarılan işçi hangi haklara sahiptir",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir konusu nasıl işlenir?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: Kira depozitosu nasıl geri alınır",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir çözümü nedir?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur konusu nasıl işlenir?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır durumu nasıl ilerler?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır kim sorumludur?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir çözümü nedir?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir kim sorumludur?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir için hangi yollar izlenmeli?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir nasıl olur?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur süreci nasıldır?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir kim sorumludur?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir için hangi yollar izlenmeli?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir süreci nasıldır?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur nasıl olur?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır nasıl olur?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: Kredi kartı borcu ödenmezse ne olur",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir yapılırken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Kredi kartı borcu ödenmezse ne olur için hangi yollar izlenmeli?",
+    "answer": "Bankalar yasal takip başlatabilir ve kredi notu düşer."
+  },
+  {
+    "question": "İşten çıkarılan işçi hangi haklara sahiptir kim sorumludur?",
+    "answer": "Kıdem tazminatı, ihbar tazminatı ve işsizlik maaşı gibi hakları vardır."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: Kira depozitosu nasıl geri alınır",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir nasıl olur?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir süreci nasıldır?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: Satın alınan ayıplı mal için ne yapılabilir",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir çözümü nedir?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır nasıl olur?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Boşanma davasında hangi mahkeme yetkilidir kim sorumludur?",
+    "answer": "Aile mahkemeleri yetkilidir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir hakkında ne yapmalıyım?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Kira depozitosu nasıl geri alınır hakkında ne yapmalıyım?",
+    "answer": "Kira süresi sonunda zarar yoksa depozito iade edilir."
+  },
+  {
+    "question": "Boşanma davasında maddi ve manevi tazminat nasıl talep edilir süreci nasıldır?",
+    "answer": "Dava dilekçesinde açıkça talep edilmelidir."
+  },
+  {
+    "question": "Satın alınan ayıplı mal için ne yapılabilir süreci nasıldır?",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  },
+  {
+    "question": "Lütfen bilgi verir misiniz: Satın alınan ayıplı mal için ne yapılabilir",
+    "answer": "Satıcıya başvurup malın değiştirilmesini, tamirini veya para iadesi talep edebilir."
+  }
+
+]
+
+
